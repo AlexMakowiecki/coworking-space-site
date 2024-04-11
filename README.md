@@ -11,7 +11,7 @@ I used HTML and CSS
   - `position:fixed` the same as absolute, but the element follow de scrollbar, or in other words, stick with the window
   - `z-index` to move positioned objects below or over others.
 ## Preview 
-<img style="text-align:center" src="https://github.com/AlexMakowiecki/oldagram/assets/122258496/e0e3dab3-036d-4e4c-8a6c-833a32062f0a" width="500px"/> 
+<img style="text-align:center" src="https://github.com/AlexMakowiecki/coworking-space-site/assets/122258496/343ba621-115c-4d5f-a863-6d2e8b9a511c" width="500px"/> 
 
 ## About Scrimba!
 
